@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="png">
+    <file>train11.png</file>
+    <file>warning3.png</file>
+    <file>time_bg.png</file>
+    <file>fuxinhao_train4.png</file>
+    <file>table_img.png</file>
+  </qresource>
+</RCC>
